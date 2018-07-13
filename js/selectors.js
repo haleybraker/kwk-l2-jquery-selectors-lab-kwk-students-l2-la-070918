@@ -18,5 +18,5 @@ function imageSelector() {
 }
 
 function checkboxInputSelector() {
-  return $('input[value="car"]')
+  return $('input[value="yes"]')
 }
