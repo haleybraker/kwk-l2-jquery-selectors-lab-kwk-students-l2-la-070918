@@ -18,5 +18,5 @@ function imageSelector() {
 }
 
 function checkboxInputSelector() {
-  return 
+  return $('input')
 }
